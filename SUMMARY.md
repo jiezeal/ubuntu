@@ -1,1 +1,1 @@
-* [空白目录](default.md)
+* [[ubuntu] 日积月累]([ubuntu] 日积月累.md)

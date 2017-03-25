@@ -33,6 +33,9 @@ cn.pool.ntp.org是位于中国的公共NTP服务器，用来同步你的时间
 ###设置中文字符集zh_CN.UTF-8
 apt-get update
 apt-get install language-pack-zh-hans language-pack-zh-hant
+
 cd /usr/share/locales
+
 ./install-language-pack zh_CN
+
 

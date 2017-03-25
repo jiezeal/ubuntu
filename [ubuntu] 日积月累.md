@@ -29,3 +29,4 @@ apt-get install ntpdate
 ntpdate cn.pool.ntp.org
 ```
 cn.pool.ntp.org是位于中国的公共NTP服务器，用来同步你的时间
+

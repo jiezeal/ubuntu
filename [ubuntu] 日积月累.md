@@ -57,4 +57,5 @@ LC_IDENTIFICATION="zh_CN.UTF-8"
 LC_ALL=zh_CN.UTF-8
 ```
 
+source /etc/environment
 
